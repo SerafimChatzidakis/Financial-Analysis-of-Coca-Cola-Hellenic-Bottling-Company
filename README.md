@@ -14,5 +14,5 @@ This academic project presents a detailed financial statement analysis of Coca-C
 - ICAP DATA PRISMA from University of Macedonia
 
 ## Author
-Serafeim Chatzidakis  
+Serafim Chatzidakis  
 BSc Accounting & Finance – University of Macedonia
