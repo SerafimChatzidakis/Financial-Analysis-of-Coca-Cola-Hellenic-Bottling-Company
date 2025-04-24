@@ -11,7 +11,7 @@ This academic project presents a detailed financial statement analysis of Coca-C
 ## Tools Used
 - Microsoft Word for reporting
 - Microsoft Excel for financial computations and tables
-- ICAB DATA from University of Macedonia
+- ICAP DATA PRISMA from University of Macedonia
 
 ## Author
 Serafeim Chatzidakis  
